@@ -144,10 +144,7 @@ Prompt Hub	LangChain Hub
 Env Handling	python-dotenv
 🚀 How to Run the Project
 1️⃣ Clone Repository
-git clone https://github.com/yourusername/rag-chatbot.git
-cd rag-chatbot
 2️⃣ Install Dependencies
-pip install -r requirements.txt
 3️⃣ Set Groq API Key
 
 Option 1 – Environment Variable (Recommended):
@@ -182,7 +179,7 @@ Generate embeddings
 Store FAISS index
 
 5️⃣ Run Streamlit App
-streamlit run app.py
+streamlit run medibot.py
 
 Open browser:
 
